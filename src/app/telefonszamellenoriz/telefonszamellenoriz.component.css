@@ -1,0 +1,21 @@
+.container {
+ height: 50vh;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column; 
+}
+
+.form-control {
+ width: 300px;
+}
+
+.success {
+    color: green;
+    margin-top: 10px;
+}
+
+.error {
+    color: red;
+    margin-top: 10px;
+}
